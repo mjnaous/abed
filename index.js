@@ -1,14 +1,16 @@
 const express = require("express");
 const cors = require('cors'); 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+
+app.use(cors()); // Enable CORS for all routes
 
 const jokes = [
   {
-    joke: `Abed asked his mother: Mazbout enno aneh asleh ered?\n\ El Abed: Ma ba3ref, le2anneh mesh sheyfeh ahel bayak wala marra. (I don't know, son, I never met your father's parents.)`
+    joke: `Abed asked his mother: Mazbout enno aneh asleh ered?\n\nEl Abed: Ma ba3ref, le2anneh mesh sheyfeh ahel bayak wala marra. (I don't know, son, I never met your father's parents.)`
   },
   {
-    joke: `Abu El Abed answers the telephone, and it's an Emergency Room doctor.\n\nDoctor: "Your wife was in a serious car accident, and I have bad news and good news. The bad news is she has lost all use of both arms and both legs, and will need help eating and going to the bathroom for the rest of her life."\n\nAbu El Abed: "My God. What's the good news?"\n\nDoctor: I'm kidding. She's dead.`
+    joke: `Abu El Abed answers the telephone, and it's an Emergency Room doctor.\n\nDoctor: \"Your wife was in a serious car accident, and I have bad news and good news. The bad news is she has lost all use of both arms and both legs, and will need help eating and going to the bathroom for the rest of her life.\"\n\nAbu El Abed: \"My God. What's the good news?\"\n\nDoctor: I'm kidding. She's dead.`
   }
 ];
 
