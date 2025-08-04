@@ -67,7 +67,37 @@ const jokes = [
     joke: `Abu El Abed n3azam 3a 3id miled w ma bya3rif shu ya3neh 3id miled. Nbasat Abu El Abed w bel ekhir 2allon: 3eed miledkom el jey 3ende ya jame3ah.`
   },
   {
-    joke: `Abu El Abed sa2al Abu Steif: shoul fare2 ben el Titanic 2 Fify Abdu (belly dancer)? Abu Steif: Sho houweh? Abu El Abed: Titanic bi ya3rfo adeh rukebha bas ma bya3rfo adeh rukeb Fify Abdo!`
+    joke: `Abu El Abed sa2al Abu Steif: shoul fare2 ben el Titanic w Fify Abdu (belly dancer)? Abu Steif: Sho houweh? Abu El Abed: Titanic bi ya3rfo adeh rukebha bas ma bya3rfo adeh rukeb Fify Abdo!`
+  }
+   {
+    "joke": "Marra Abu El Abed and Abu Steif 3am bi dakhnou hashish w mastouleen 3al akheer.\n\nAbu steif: Abu El Abed...sme3et..el amercan tel3ou 3al amar.\n\nAbu El Abed nos fayi2 w 3youno mfanjrin sa2al: Shou? Kellon??"
+  },
+  {
+    "joke": "Abu Abed 3am ydo2 3al beit; el san3a radit...\n\nAbu El Abed: Ma3ik el monsieur, 3atine el madame.\n\nEl san3a: Ma fine, el madame neyme ma3 el monsieur.\n\nAbu El Abed (m3asab): Ya hmara, ana el monsieur wel madame 3am tkhoune! Jibeh el fared w awsiyon w rja3ileh.\n\nBtnafiz el san3a el awemir\n\nAbu El Abed: Hala2 at3iyon ota3 w 7otiyon b kyes plastic.\n\nBtnafiz el san3a el awemir\n\nAbu El Abed: 7otteh el kyes bel kabou.\n\nEl san3a: Bas monsieur ma 3ana kabou bel beit.\n\nAbu El Abed: mesh heyda 01 345012?\n\nEl san3a: la heyda 01 345011\n\nAbu El Abed: Sorry ma twekhzine mghalbat el ra2m."
+  },
+  {
+    "joke": "Abu El Abed and Abu Steif 3am ye7ko 3an wledon..\n\nAbu Steif: Ebne Moustafe ktir zake, shi yom 7a ysir mohandis.\n\nAbu El Abed: Kif bta3rif hal shi?\n\nAbu Steif: Ntor. ya Moutafe, fe wahed bekoun ibn bayek bas mesh khayek, min hayde?\n\nMostafe: hayda ane.\n\nAbu El Abed nbahar w sar bado ya3rif iza Abed zake ad Moustafe. Bas reji3 3al beit sa2alo nafs el so2al.\n\nAbed: Khaline fakir w berja3lak.\n\nDahar mn el beit w sa2al rfi2o Zakour w jewabo: Heyde ane.\n\nAbed alo la bayyo: Hayde Zakour.\n\nAbu El Abed: il3ama shou hmar, hayde Moustafe ya bhim."
+  },
+  {
+    "joke": "Abu El Abed w Abu Steif 3am ysefro fo2 europa…\n\nAbu Steif (3am yetala3 mn el shebek): Ayya balad heyde?\n\nAbu El Abed: Heyde Czechoslovakia.\n\nBa3d 3 se3at..\n\nAbu Steif (3am yetala3 mnl shebek marra tenye): tab ayya balid heyde?\n\nAbu El Abed (tala3 la ta7t): heyde Czechoslovakia.\n\nAbu Steif: Mn shway kenit Czechoslovakia..\n\nAbu El Abed: el 2oula elta7teh, wel tenyeh elfawka!"
+  },
+  {
+    "joke": "Marra Abu El Abed (AA) arrar ysefir 3a america w yefta7 business w sar ybi3 tyeb w ferash.\n\nBa3d 6 ashhor da2 la Em El Abed w 2alla: Em El Abed doubi chantek w ta3eh la hawn.\n\nEm El Abed: Leish ya Abu El Abed?\n\nAbu El Abed: Be3et miyet farsheh w khams miyet kilot w rbehet 150 000 Dollar.\n\nEm El Abed: Eh enta doub chantak w ta3a la hawn. Ana bi farsheh wa7deh w bala kilot rbehet 200 000 Dollar."
+  },
+  {
+    "joke": "Abu El Abed w Abu Steif badon ykamlo 3elmon b america. El jem3a 3ateton forums la y3abouwon, w 3al forum se2lin shu esem madreston.\n\nAbu El Abed katab: I don't know\n\nAbu Steif katab: I didn't mean it.\n\nWa2ta sa2louwon shu azdon.\n\nAbu El Abed: Kenet bel ma3aref.\n\nAbu Steif: Kenet bel makassed."
+  },
+  {
+    "joke": "Abu El Abed fata7 mat3ab bedl Ashrafieh. 7at yafta 3leya esem el taba2 el yawmeh.\n\nMara mar2a sa2lit Abu El Abed: shou el plat du jour lyaoum?\n\nAbu El Abed: Wara2 3enab malffouf.\n\nEl mara: J'aime beacoup ca. (I like that a lot)\n\nAbu El Abed: La2 jambo laban mesh kousa."
+  },
+  {
+    "joke": "Abed ra7 ysajil b madrase w 3ando emti7an dokhoul. El m3almeh sa2leto: iza fi 3 3safir 3a shrit kahrabeh, w wa7ad tar kam 3asfour fi?\n\nAbed: Wala wa7ad.\n\nEl m3almeh: Leish?\n\nAbed: La2ano ma3rouf bas ytir 3asfour byel7a2ou el ba2yin.\n\nEl m3almeh: La2, Abed. El jaweb 2 bas by3jebneh tefkirak.\n\nAbed: khalineh es2alik so2al ya madam. iza fi 3 neswen 3am yeklo korneh bouza. Wa7de 3am tel7aso, el tenye 3am tmosso, wel telte 3am tekedsho. Ayya wa7deh mjawzeh?\n\nEl m3almeh: Ma ba3rif, eli 3am tmosso?\n\nAbed: La2, el lebse khatam jawez bas by3jebneh tefkirik."
+  },
+  {
+    "joke": "Marra Abu El Abed t2akhar 3al shoghol, fa ken 3am y2asri3 w khabas zalameh.\n\nAbu El Abed wa2af el sayara w nezil yetaman 3al zalameh.\n\nEl zalame: Shou mesh sheyefneh?\n\nAbu El Abed: Mbaleh, bass mesh zaker wayn."
+  },
+  {
+    "joke": "Marra Abu El Abed ken a3id bel Manara w la2a mosbeh adim. Jarab ynadfo w balash yeferko w faj2a, tolo3lo jenneh...\n\nEl jenneh: SHEBEIK LEBEIK Abdak bein eideyk. w allo la Abu El Abed 3ando omniyeh wa7de\n\nFakar shway Abu El Abed w alo lal jenneh: Ya jenneh bede autostrad mn hol la obros (Cyprus).\n\nEl jenneh: Ya Abu El Abed bta3rif enneh jenneh kbir w khatyaret, ma fi shi ahyan?\n\nAbu El Abed: Fi shi wa7ad, tari2it tefkir Em El Abed. Leh aw2at mabsouta w aw2at za3leneh, shu bye3jeba w shu la2. Fik tkhalineh efham 3keya?\n\nEl jenneh: w kam khat badak yeh lal autostrad?"
   }
 ];
 
