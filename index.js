@@ -68,8 +68,8 @@ const jokes = [
   },
   {
     joke: `Abu El Abed sa2al Abu Steif: shoul fare2 ben el Titanic w Fify Abdu (belly dancer)? Abu Steif: Sho houweh? Abu El Abed: Titanic bi ya3rfo adeh rukebha bas ma bya3rfo adeh rukeb Fify Abdo!`
-  }
-   {
+  },
+  {
     "joke": "Marra Abu El Abed and Abu Steif 3am bi dakhnou hashish w mastouleen 3al akheer.\n\nAbu steif: Abu El Abed...sme3et..el amercan tel3ou 3al amar.\n\nAbu El Abed nos fayi2 w 3youno mfanjrin sa2al: Shou? Kellon??"
   },
   {
